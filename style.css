@@ -13,5 +13,7 @@ footer {
 }
 
 footer p {
+    font-weight: bold;
+    margin-left: 5px;
     display: inline-block;
 }
