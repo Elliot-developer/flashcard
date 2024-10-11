@@ -1,5 +1,4 @@
-    criacartao(
-    'Biologia',
+    criacartao('Biologia',
     'O que é mitose?',
     'Mitose é o processo de divisão celular que resulta em duas células-filhas geneticamente idênticas à célula original.'
     )
