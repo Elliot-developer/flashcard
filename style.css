@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 :root {
         --fundo:#191970;
         --cartao-frente:#1E90FF;
@@ -12,8 +17,6 @@ body {
 }
 
 footer {
-    margin: 0;
-    padding: 0;
     background-color: var(--preto);
     position: fixed;
     bottom: 0;
