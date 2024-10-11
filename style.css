@@ -49,3 +49,9 @@ footer p {
     color: var(--branco);
 
 }
+
+.cartao {
+    margin: 1rem;
+    height: 20rem;
+    
+}
