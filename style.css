@@ -17,6 +17,7 @@ footer {
 }
 
 footer p {
+    color: var(--branco);
     font-weight: bold;
     margin-left: 5px;
     display: inline-block;
