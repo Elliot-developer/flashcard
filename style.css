@@ -1,3 +1,8 @@
-* {
-    background-color: darkcyan;
+:root {
+        --fundo:#191970;
+        --cartao-frente:#4169E1	;
+        --cartao-verso:;
+        --destaque:;
+        --preto:#000000;
+        --branco:#ffffff;
 }
