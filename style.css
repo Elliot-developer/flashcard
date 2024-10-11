@@ -17,7 +17,7 @@ body {
 }
 
 footer {
-    height: 150px;
+    height: 120px;
     background-color: var(--preto);
     position: fixed;
     bottom: 0;
@@ -25,6 +25,10 @@ footer {
     color: var(--branco);
     align-items: center;
     text-align: center;
+}
+
+#txt {
+    margin-top: 20px;
 }
 
 footer p {
