@@ -18,7 +18,7 @@ criacartao(
 
     criacartao(
     'Matemática',
-    'O que é uma função do 2o grau?'
+    'O que é uma função do 2o grau?',
     'Uma função do 2o grau é uma função polinomial da forma f(x) = ax2 + bx + c, onde a ≠ 0.'
     )
 
