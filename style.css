@@ -41,9 +41,11 @@ footer p {
 
 #container {
     margin: 5px;
-    padding: 5px;
+    padding: 4rem;
+    gap: 3rem;
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
     color: var(--branco);
 
 }
