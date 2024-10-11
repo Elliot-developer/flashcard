@@ -17,6 +17,7 @@ body {
 }
 
 footer {
+    height: 250px;
     background-color: var(--preto);
     position: fixed;
     bottom: 0;
