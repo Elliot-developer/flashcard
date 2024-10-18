@@ -51,6 +51,8 @@ footer p {
 }
 
 .conteudo-cartao {
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
     height: 100%;
     background-color: var(--cartao-frente);
 }
@@ -64,6 +66,8 @@ footer p {
 }
 
 .conteudo-cartao h3 {
+    margin: 0.6rem;
+    padding: 0.6rem;
     border: 2px solid var(--destaque);
     border-radius: 5px;
     position: absolute;
@@ -76,4 +80,8 @@ footer p {
     margin-top: 4rem;
     padding: 2remad;
     font-size: 1.4vw;
+}
+
+.cartao:hover .conteudo-cartao{
+    transform: rotateY(180deg);
 }
