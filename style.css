@@ -59,6 +59,7 @@ footer p {
 }
 
 .conteudo-cartao h3 {
+    position: absolute;
     text-align: center;
     align-items: center;
     color: var(--destaque);
