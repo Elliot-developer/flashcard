@@ -66,6 +66,7 @@ footer p {
 }
 
 .conteudo-cartao h3 {
+    backface-visibility: hidden;
     margin: 0.6rem;
     padding: 0.6rem;
     border: 2px solid var(--destaque);
@@ -78,8 +79,15 @@ footer p {
 
 .conteudo-cartao p {
     margin-top: 4rem;
-    padding: 2remad;
+    padding: 2rem;
     font-size: 1.4vw;
+}
+
+.pergunta-cartao, .respota-cartao {
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
 }
 
 .cartao:hover .conteudo-cartao{
