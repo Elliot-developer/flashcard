@@ -63,3 +63,8 @@ footer p {
     align-items: center;
     color: var(--destaque);
 }
+
+.conteudo-cartao p {
+    margin-top: 4rem;
+    padding: 2remad;
+}
