@@ -51,6 +51,7 @@ footer p {
 }
 
 .cartao {
+
     margin: 1rem;
     height: 20rem;
     flex-grow: 1;
@@ -58,5 +59,7 @@ footer p {
 }
 
 .conteudo-cartao h3 {
+    text-align: center;
+    align-items: center;
     color: var(--destaque);
 }
