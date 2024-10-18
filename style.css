@@ -51,6 +51,7 @@ footer p {
 }
 
 .conteudo-cartao {
+    height: 100%;
     background-color: var(--cartao-frente);
 }
 
@@ -63,6 +64,8 @@ footer p {
 }
 
 .conteudo-cartao h3 {
+    border: 2px solid var(--destaque);
+    border-radius: 5px;
     position: absolute;
     text-align: center;
     align-items: center;
@@ -72,4 +75,5 @@ footer p {
 .conteudo-cartao p {
     margin-top: 4rem;
     padding: 2remad;
+    font-size: 1.4vw;
 }
