@@ -93,3 +93,10 @@ footer p {
 .cartao:hover .conteudo-cartao{
     transform: rotateY(180deg);
 }
+
+.respota-cartao {
+    transform: rotateY(180deg);
+    font-weight: 700;
+    color: var(--destaque);
+    border: 2px solid var(--destaque);
+}
